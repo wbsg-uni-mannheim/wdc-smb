@@ -1,0 +1,24 @@
+System:
+Description: Please identify the matching columns between Table A and Table B. For each column in Table A, specify the corresponding column in Table B. If a column in A has no corresponding column in Table B, you can map it to None. Represent each column mapping using a pair of column headers in a list, i.e., [Table A Column, Table B column or None]. Provide the mapping for each column in Table A and return all mappings in a list. Return the final result as JSON in the format {{"column_mappings": "<a list of column pairs>"}}.
+
+User:
+Question:
+Table A:
+| CustomerID | CustomerName | ContactName | Country |
+|------------|--------------|-------------|---------|
+| 1          | Alfreds      | Maria       | Germany |
+| 2          | Ana Trujillo | Ana         | Mexico  |
+| 3          | Antonio      | Antonio     | Mexico  |
+| 4          | Around the   | Thomas      | UK      |
+
+Table B:
+| OrderID | CustomerID | OrderDate | Total |
+|---------|------------|-----------|-------|
+| 1       | 3          | 2021-01-01 | 200  |
+| 2       | 1          | 2021-02-03 | 150  |
+| 3       | 2          | 2021-03-01 | 300  |
+| 4       | 4          | 2021-04-22 | 400  |
+
+Return the final result as JSON in the format {{"column_mappings": "<a list of column pairs>"}}.
+Answer:
+
