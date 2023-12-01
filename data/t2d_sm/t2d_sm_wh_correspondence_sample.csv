@@ -1,0 +1,6 @@
+,table_name,column_name_left,column_index_left,column_name_right,column_index_right,label
+0,52299421_0_4473286348258170200,Population,7,populationTotal,3,1
+1,41648740_0_6959523681065295632,COUNTRY,0,rdf-schema#label,0,1
+2,69881946_0_1105130426898457358,Year,3,releaseDate,4,1
+3,57938705_0_8737506792349461963,Game,9,genre,3,0
+4,89511064_0_2199624509082573904,FIPS,3,rdf-schema#label,0,0

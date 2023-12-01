@@ -1,0 +1,6 @@
+,table_name_left,column_index_left,table_name_right,column_index_right,label
+0,LocalBusiness_transportnearme.com.au_September2020_CPA.json.gz,20,Hotel_sidefare.com_September2020_CPA.json.gz,12,1
+1,SportsEvent_tipbet.gr_September2020_CPA.json.gz,5,Event_chrisjerichocruise.com_September2020_CPA.json.gz,11,1
+2,Restaurant_food.gg_September2020_CPA.json.gz,5,Hotel_sidefare.com_September2020_CPA.json.gz,5,1
+3,SportsEvent_watchafl.com.au_September2020_CPA.json.gz,6,SportsEvent_tipbet.gr_September2020_CPA.json.gz,10,0
+4,Recipe_cuban.recipes_September2020_CPA.json.gz,16,Book_filco.es_September2020_CPA.json.gz,4,0
